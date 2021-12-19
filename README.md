@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipAntony
 - 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning Javascript (Advance)
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on instagram @philipantony05
 
